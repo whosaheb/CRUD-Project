@@ -7,4 +7,4 @@ Steps to start:
    4: type "npm start"
    5: open your browser, type URL localhost:3000/employee/
    
-   fell free to share your errors with git community
+   feel free to share your errors with git community
